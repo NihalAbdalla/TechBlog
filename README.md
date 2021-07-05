@@ -2,7 +2,7 @@
 
 Create database by CRUD (Create, Read, Update, Destory)
 
-step 1: MySQL workbench
+step 1: npm init
 
 step 2: install npm i mysql2
 
@@ -20,8 +20,10 @@ step 8: npm i connect-session-sequelize
 
 step 9: create department table, role table, & employee table
 
-step 10: create connection.js db folder
+step 10: npm i
 
 step 11: install npm i dotenv
 
-step 12: create models catergory.js, product.js, tag.js, producetag.js, & index.js files
+step 10: create all structed folders and files
+
+step 12: MySQL workbench

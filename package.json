@@ -1,0 +1,20 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "Tech blog note/comment app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalAbdalla/TechBlog.git"
+  },
+  "author": "Nihal Abdalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihalAbdalla/TechBlog/issues"
+  },
+  "homepage": "https://github.com/NihalAbdalla/TechBlog#readme"
+}
